@@ -46,7 +46,7 @@ nav ul li a:hover {
   justify-content: space-between;
   flex-wrap: wrap;
   padding: 80px 10%;
-  background-color: #f7ff8f;
+  background-color: #92a8d1;
 }
 .hero-content {
   flex: 1 1 45%;
@@ -96,7 +96,7 @@ nav ul li a:hover {
   transform: translateY(-3px);
 }
 #about-me {
-  background-color: #fffca8;
+  background-color: #b7c6e1;
   padding: 100px 10%;
 }
 .about-container {
@@ -123,7 +123,7 @@ nav ul li a:hover {
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
 }
 #skills {
-  background-color: #fffef2;
+  background-color: #dbe2f0;
   padding: 100px 10%;
   text-align: center;
 }
@@ -178,7 +178,7 @@ nav ul li a:hover {
   line-height: 1.5;
 }
  #projects {
-      background-color: #fffca8;
+      background-color: #b7c6e1;
       padding: 100px 10%;
       text-align: center;
     }
@@ -233,10 +233,10 @@ nav ul li a:hover {
       line-height: 1.5;
     }
      h4{
-        background-color: plum;
+        background-color: #4b70b4;
     }
     #contact-me {
-      background-color: #fffef2;
+      background-color: #dbe2f0;
       padding: 100px 10%;
     }
  .contact-container {
